@@ -13,7 +13,7 @@ Bu repo, C# dilini sıfırdan öğrenme sürecimi günlük olarak takip ettiğim
 
 | Gün | Tarih | Konu | Durum |
 |-----|-------|------|-------|
-| 1   |       | Giriş, Değişkenler, Veri Tipleri | ⬜ |
+| 1   |       | Giriş, Değişkenler, Veri Tipleri | ✅ |
 | 2   |       | Operatörler, Koşul İfadeleri (if/else, switch) | ⬜ |
 | 3   |       | Döngüler (for, while, foreach) | ⬜ |
 | 4   |       | Diziler ve Listeler | ⬜ |

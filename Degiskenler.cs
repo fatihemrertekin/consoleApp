@@ -14,6 +14,8 @@ var adres = "Istanbul, Turkey";
 var yas = 24;
 Console.WriteLine($"dogum_tarihi: {dogum_tarihi}, dogum_yeri: {dogum_yeri}, adres: {adres}, yas: {yas}");
 
+
+
 // UYGULAMA 2
 var urun1 = 50;
 var urun2 = 100;
